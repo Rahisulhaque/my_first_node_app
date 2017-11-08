@@ -1,0 +1,22 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "This is my first app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rahisulhaque/my_first_node_app.git"
+  },
+  "keywords": [
+    "firstapp"
+  ],
+  "author": "Rahisul Haque",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rahisulhaque/my_first_node_app/issues"
+  },
+  "homepage": "https://github.com/Rahisulhaque/my_first_node_app#readme"
+}
